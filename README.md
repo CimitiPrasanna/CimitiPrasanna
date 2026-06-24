@@ -74,7 +74,9 @@
 ✔ Ensures **data immutability and transparency** for transactions  
 ✔ Reduces fraud by maintaining decentralized transaction records  
 ✔ Implements secure authentication and transaction validation  
-
+<a href="https://github.com/CimitiPrasanna/Banking-System-using-Block-Chain">
+  <img src="https://img.shields.io/badge/View%20Project-Banking%20System%20using%20Blockchain-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 ### 🚆 Train Reservation System  
@@ -83,7 +85,9 @@
 ✔ Allows users to **check availability, reserve, and cancel tickets**  
 ✔ Uses **MySQL database** for storing passenger and booking details  
 ✔ Implements **OOP concepts and exception handling**  
-
+<a href="https://github.com/CimitiPrasanna/Train_Reservation_System">
+  <img src="https://img.shields.io/badge/View%20Project-Train%20Reservation%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 ## 📜 Certifications  
